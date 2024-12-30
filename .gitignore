@@ -1,13 +1,15 @@
 # .fit files
-.fit
-.tcx
-.gpx
+*.fit
+*.tcx
+*.gpx
 
-.xml
+*.xml
 
-.db
-.json
+*.db
+*.json
 
+*.csv
+*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
